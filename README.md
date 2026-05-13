@@ -1,4 +1,6 @@
-# ScaleAutoResearch for Ramsey: New Lower Bounds for R(3,17) After 32 Years
+# ScaleAutoResearch-Ramsey
+
+New Lower Bounds for R(3,17) After 32 Years
 
 [Yiping Wang](https://ypwang61.github.io/)
 
