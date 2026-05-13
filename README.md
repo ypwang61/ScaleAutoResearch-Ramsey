@@ -59,11 +59,11 @@ Yiping Wang is supported in part by the [Amazon AI PhD Fellowship](https://www.a
 If you use these witnesses or experiment records, please cite this repository:
 
 ```bibtex
-@software{scaleautoresearch_ramsey_2026,
-  title  = {ScaleAutoResearch-Ramsey},
-  author = {Wang, Yiping},
-  year   = {2026},
-  url    = {https://github.com/ypwang61/ScaleAutoResearch-Ramsey},
-  note   = {Verified graph witnesses for new lower bounds on classical Ramsey numbers}
+@misc{wang2026scaleautoresearchramsey,
+  author       = {Yiping Wang},
+  title        = {ScaleAutoResearch-Ramsey},
+  howpublished = {https://github.com/ypwang61/ScaleAutoResearch-Ramsey},
+  note         = {Verified graph witnesses and experiment records for new lower bounds on classical Ramsey numbers},
+  year         = {2026}
 }
 ```
